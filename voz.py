@@ -57,3 +57,5 @@ btn_sair=ct.CTkButton(janela, width=60, height=25, fg_color="red", text="Sair",t
                 command=sair).place(x=430, y=370)
 
 janela.mainloop()
+
+# faça bom uso do código.
